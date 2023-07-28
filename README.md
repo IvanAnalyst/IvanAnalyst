@@ -11,7 +11,6 @@
 
 - 📄 Know about my experiences [https://github.com/IvanAnalyst/My-projects/blob/main/Resume.pdf](https://github.com/IvanAnalyst/My-projects/blob/main/Resume.pdf)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
