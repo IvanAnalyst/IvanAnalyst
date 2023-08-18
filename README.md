@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Kucherov Ivan</h1>
 <h3 align="center">An aspiring data analyst / data scientist from Russia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ivananalyst&label=Profile%20views&color=0e75b6&style=flat" alt="ivananalyst" /> </p>
-
 - 👨‍💻 All of my projects are available at [https://ivananalyst.github.io/My-projects](https://ivananalyst.github.io/My-projects)
 
 - 📫 How to reach me **unequivocally.ivan@gmail.com**
