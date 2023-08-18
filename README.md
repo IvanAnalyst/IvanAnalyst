@@ -15,6 +15,8 @@
 <a href="https://www.leetcode.com/ivananalyst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ivananalyst" height="30" width="40" /></a>
 </p>
 
+---
+
 <p align="left">
 </p>
 
