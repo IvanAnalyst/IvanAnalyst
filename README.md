@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Kucherov Ivan</h1>  
+<h2 align="center">Hi, I'm Kucherov Ivan</h2>  
 
 <h3 align="center">An aspiring data analyst / data scientist from Russia</h3>   
 
