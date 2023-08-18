@@ -15,7 +15,7 @@
 <a href="https://www.leetcode.com/ivananalyst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ivananalyst" height="30" width="40" /></a>
 </p>
 
----
+#
 
 <p align="left">
 </p>
@@ -34,6 +34,8 @@
   <a href="https://powerbi.microsoft.com/desktop/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png" alt="power_bi" width="40" height="40"/> </a>
   <a href="https://www.microsoft.com/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="excel" width="40" height="40"/> </a>
 </p>
+
+#
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivananalyst&show_icons=true&locale=en&layout=compact" alt="ivananalyst" /></p>
 
