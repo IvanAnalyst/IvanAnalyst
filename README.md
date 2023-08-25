@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [https://github.com/IvanAnalyst/My-projects/blob/main/Resume.pdf](https://github.com/IvanAnalyst/My-projects/blob/main/Resume.pdf)
 
-- 
+- 📌 Visit my Tableau public at [https://public.tableau.com/app/profile/ivan.kucherov](https://public.tableau.com/app/profile/ivan.kucherov)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
