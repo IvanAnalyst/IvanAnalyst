@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Kucherov Ivan</h1>
 <h3 align="center">An aspiring data analyst / data scientist from Russia</h3>
 
-- 👨‍💻 All of my projects are available at [https://ivananalyst.github.io/My-projects](https://ivananalyst.github.io/My-projects)
+- 👨‍💻 All of my projects are available at [https://ivananalyst.github.io/Portfolio/](https://ivananalyst.github.io/Portfolio/)
 
 - 📫 How to reach me **unequivocally.ivan@gmail.com**
 
